@@ -2,6 +2,8 @@
 
 
 ### Setup Instructions
+
+
 Before running the script, the following variables need to be setup:
 
 ```export aws_access_key_id="your-access-key```
